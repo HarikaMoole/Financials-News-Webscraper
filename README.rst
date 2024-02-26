@@ -1,3 +1,3 @@
-# Financial News Web Scraper
+Financial News Web Scraper
 
 
